@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9b509bb.css",
+    "main.js": "/static/js/main.52e11f80.js",
+    "static/js/453.a92a3f22.chunk.js": "/static/js/453.a92a3f22.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.fd7873675ac92feb54ea.svg",
+    "static/media/reservation-bg.jpg": "/static/media/reservation-bg.5664da14fe73a430743a.jpg",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.45f9f92a5bfbad4be12f.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.c589f72df384e3ef078b.woff",
+    "static/media/top-left-bg.jpg": "/static/media/top-left-bg.000bdee07a883ee095b7.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.03605b2467d43a9f4c63.eot",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.fb685a7c7e4aae2d4d71.woff2",
+    "static/media/menu-item-01.jpg": "/static/media/menu-item-01.6b0c91eba5a77994e894.jpg",
+    "static/media/menu-item-02.jpg": "/static/media/menu-item-02.d3f80a955978751047d8.jpg",
+    "static/media/menu-item-04.jpg": "/static/media/menu-item-04.935db784dd795ba05cbd.jpg",
+    "static/media/menu-item-03.jpg": "/static/media/menu-item-03.fc1d0422272c3d2d1d6d.jpg",
+    "static/media/menu-item-05.jpg": "/static/media/menu-item-05.52ac0b11c3debf04c060.jpg",
+    "index.html": "/index.html",
+    "static/media/flexslider-icon.svg": "/static/media/flexslider-icon.603822aa792a077c03dd.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/flexslider-icon.eot": "/static/media/flexslider-icon.0c4bb125c0f3d608f400.eot",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/flexslider-icon.ttf": "/static/media/flexslider-icon.c6c9e9e5197006950550.ttf",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/flexslider-icon.woff": "/static/media/flexslider-icon.b5aefbb787e9e5f6aa2a.woff",
+    "main.a9b509bb.css.map": "/static/css/main.a9b509bb.css.map",
+    "main.52e11f80.js.map": "/static/js/main.52e11f80.js.map",
+    "453.a92a3f22.chunk.js.map": "/static/js/453.a92a3f22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9b509bb.css",
+    "static/js/main.52e11f80.js"
+  ]
+}
